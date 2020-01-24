@@ -1,4 +1,4 @@
 cost is measured using the strike rate
 	runs/sr
-hieuristic cost
+heuristic cost
 	(target-current runs)/(sr/rem overs)n
